@@ -79,7 +79,7 @@ Some Psyches will have the word 'Reaction' in their trigger conditions. These Ps
 ## Ending a Fight
 A fight is over when everybody who would oppose you is either dead or surrendering. At the end of the fight, the GM will tell you what you found. Generally, **you WILL find something,** but it won't always be something immediately useful or valuable. Sometimes it's just cash, sometimes it's items, if you're lucky it's both.
 
-Once the fight's over, remember to Refresh all the Tapped Mementos you have. You don't get to refresh Exhausted Mementos, though.
+Once the fight's over, remember to spend Vitality to recover HP and Refresh all the Tapped Mementos you have. You don't get to refresh Exhausted Mementos, though.
 
 # The Malls
 It's not quite clear when it happened, but it was some time after the Malls started dying. Their decaying husks, still populated with hopeful small-time stores and big-name brands that can throw good money after bad, became host to something otherworldly. People tried to ignore it, the same way they ignored so many other things that were distasteful and upsetting, but eventually there were one too many incidents, one too many trophy wives found dead with a smile on their faces, one too many happy families mysteriously vanished.
